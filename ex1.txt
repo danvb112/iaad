@@ -1,0 +1,1 @@
+- Um SGBD (Sistema gerenciador de banco de dados) não é um banco de dados mas sim um complemento, um conjunto de programas que interage com os dados.
